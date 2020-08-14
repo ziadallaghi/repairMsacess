@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/14 22:41:01.000.449,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/02/06 20:29:33.000.808,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/02/11 23:36:21.000.709,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/03/13 01:16:25.000.462,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/03/20 06:27:08.000.328,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/03/21 00:25:22.000.475,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/03/21 01:55:51.000.707,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/04/01 16:11:38.000.511,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/04/02 12:26:04.000.000,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/04/25 11:43:48.000.878,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/03 03:10:24.000.913,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/18 13:43:07.000.633,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/23 09:42:08.000.725,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/26 22:59:16.000.049,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/28 19:15:48.000.917,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/29 23:39:03.000.464,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/29 23:58:34.000.352,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/05/30 00:00:33.000.779,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/06/01 12:37:06.000.478,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/06/02 12:19:57.000.368,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/06/06 15:07:37.000.293,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/06/12 16:14:49.000.747,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/06/20 19:33:15.000.025,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/06/20 19:39:16.000.090,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/06/20 19:45:16.000.064,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/07/07 22:18:02.000.027,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/07/12 22:19:28.000.711,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/08/14 10:43:31.176,=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/08/14 11:30:45.165,C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\fix_pro\Unit3.pas=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/08/14 11:30:45.165,C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\fix_pro\Unit3.dfm=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2020/08/14 11:30:48.062,C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\fix_pro\Project3.dproj=C:\Users\Delphi\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
